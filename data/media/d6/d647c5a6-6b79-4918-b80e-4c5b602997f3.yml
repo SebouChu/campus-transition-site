@@ -5,7 +5,7 @@ width: 2048
 height: 1366
 ratio: 1.499267935578331
 format: landscape
-url: https://campus-transition.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ2NDdjNWE2LTZiNzktNDkxOC1iODBlLTRjNWI2MDI5OTdmMyIsInB1ciI6ImJsb2JfaWQifX0=--ba3c05403b51bbe8048f1ed29655865d9e0a62db/2166456.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/29a6bxpyij3rtum10foyqlx4kr6m
-download_url: https://campus-transition.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImQ2NDdjNWE2LTZiNzktNDkxOC1iODBlLTRjNWI2MDI5OTdmMyIsInB1ciI6ImJsb2JfaWQifX0=--ba3c05403b51bbe8048f1ed29655865d9e0a62db
+url: http://campus-transition.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ2NDdjNWE2LTZiNzktNDkxOC1iODBlLTRjNWI2MDI5OTdmMyIsInB1ciI6ImJsb2JfaWQifX0=--b2f1169b1a695ed89a252381e41638474d398fab/2166456.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/29a6bxpyij3rtum10foyqlx4kr6m
+download_url: http://campus-transition.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImQ2NDdjNWE2LTZiNzktNDkxOC1iODBlLTRjNWI2MDI5OTdmMyIsInB1ciI6ImJsb2JfaWQifX0=--b2f1169b1a695ed89a252381e41638474d398fab
 
