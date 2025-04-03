@@ -5,7 +5,7 @@ width: 1000
 height: 1000
 ratio: 1.0
 format: square
-url: https://campus-transition.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlmOTY2Y2M5LWI4ODgtNDYzMi1hMGI3LTNiOGE5NDIxNjRlOSIsInB1ciI6ImJsb2JfaWQifX0=--9901b82969fb4d46ebbd523fa49c0029129583ed/Marc.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/rnmpsivut0u7c3modggs1umvaasl
-download_url: https://campus-transition.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjlmOTY2Y2M5LWI4ODgtNDYzMi1hMGI3LTNiOGE5NDIxNjRlOSIsInB1ciI6ImJsb2JfaWQifX0=--9901b82969fb4d46ebbd523fa49c0029129583ed
+url: http://campus-transition.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlmOTY2Y2M5LWI4ODgtNDYzMi1hMGI3LTNiOGE5NDIxNjRlOSIsInB1ciI6ImJsb2JfaWQifX0=--76a0a7f0046bc0833ff3abd7a55c27ca05b18930/Marc.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/rnmpsivut0u7c3modggs1umvaasl
+download_url: http://campus-transition.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjlmOTY2Y2M5LWI4ODgtNDYzMi1hMGI3LTNiOGE5NDIxNjRlOSIsInB1ciI6ImJsb2JfaWQifX0=--76a0a7f0046bc0833ff3abd7a55c27ca05b18930
 

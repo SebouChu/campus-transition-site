@@ -5,7 +5,7 @@ width: 1000
 height: 1000
 ratio: 1.0
 format: square
-url: https://campus-transition.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImEyYTY2NjdmLTJkOWEtNDU0OS1hY2FiLThiMjgxODMwMjk4MSIsInB1ciI6ImJsb2JfaWQifX0=--6350166af44e7a15574b4e0c2dd4efaa5fdd6fb5/Celia.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/39u7rhv3p8elttxny40rj2fxwtgr
-download_url: https://campus-transition.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImEyYTY2NjdmLTJkOWEtNDU0OS1hY2FiLThiMjgxODMwMjk4MSIsInB1ciI6ImJsb2JfaWQifX0=--6350166af44e7a15574b4e0c2dd4efaa5fdd6fb5
+url: http://campus-transition.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImEyYTY2NjdmLTJkOWEtNDU0OS1hY2FiLThiMjgxODMwMjk4MSIsInB1ciI6ImJsb2JfaWQifX0=--d96bf0cc6c93530294d41e2979767960cdd01990/Celia.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/39u7rhv3p8elttxny40rj2fxwtgr
+download_url: http://campus-transition.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImEyYTY2NjdmLTJkOWEtNDU0OS1hY2FiLThiMjgxODMwMjk4MSIsInB1ciI6ImJsb2JfaWQifX0=--d96bf0cc6c93530294d41e2979767960cdd01990
 

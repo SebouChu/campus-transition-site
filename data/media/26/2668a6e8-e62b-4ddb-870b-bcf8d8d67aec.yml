@@ -5,7 +5,7 @@ width: 1000
 height: 1000
 ratio: 1.0
 format: square
-url: https://campus-transition.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjI2NjhhNmU4LWU2MmItNGRkYi04NzBiLWJjZjhkOGQ2N2FlYyIsInB1ciI6ImJsb2JfaWQifX0=--607fc7610e0604e0054485a56add7ab798d8805b/Adrien.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/aqe804cdrb7cnhylo0pvbp65727m
-download_url: https://campus-transition.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjI2NjhhNmU4LWU2MmItNGRkYi04NzBiLWJjZjhkOGQ2N2FlYyIsInB1ciI6ImJsb2JfaWQifX0=--607fc7610e0604e0054485a56add7ab798d8805b
+url: http://campus-transition.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjI2NjhhNmU4LWU2MmItNGRkYi04NzBiLWJjZjhkOGQ2N2FlYyIsInB1ciI6ImJsb2JfaWQifX0=--aae1cc62eca2739caed919d17b0cfb3506de5b20/Adrien.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/aqe804cdrb7cnhylo0pvbp65727m
+download_url: http://campus-transition.osuny:3000/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjI2NjhhNmU4LWU2MmItNGRkYi04NzBiLWJjZjhkOGQ2N2FlYyIsInB1ciI6ImJsb2JfaWQifX0=--aae1cc62eca2739caed919d17b0cfb3506de5b20
 
